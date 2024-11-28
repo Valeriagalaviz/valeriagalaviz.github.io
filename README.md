@@ -1,4 +1,4 @@
-##Portafolio de Proyectos
+## Portafolio de Proyectos
 
 ¡Hola! Soy ***Valeria Galaviz***, desarrolladora web Jr💻. Apasionada por la tecnología, aquí encontraras información sobre mí.
 
