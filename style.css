@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "DM Sans", sans-serif;
+}
+header{
+    background-color: #0f286d;
+    border-bottom: solid 8px #2a5be4;
+}
+.nav-item a{
+    color: #AF47D2;
+}
+.nav-item a:hover{
+    color: #b4dcf3;
+}
+.nombre{
+    color: white;
+    font-weight: bold;
+}
+.icono{
+    color: white;
+    font-size: 30px;
+} 
+#boton-perfil{
+    background-color: #AF47D2;
+}
+#app{
+    color: #0f286d;
+}
+.boton-cv{
+    background-color: #c18ad3;
+    border: 2px solid #AF47D2;
+    color: #5b0677;
+}
+.boton-cv:hover{
+    background-color: #bd70d6;
+    border: 2px solid #8103ac;
+    font-weight: bold;
+    color: #5b0677;
+    transition-duration: 0.5s;
+}
+.contenedor-habilidades{
+    background-color: #fcfcfc;
+    border-bottom: solid 8px #2a5be4;
+    border-top: solid 8px #2a5be4;
+}
+.titulo-habilidades, .titulo-proyectos, .titulo-testimonios, .titulo-contacto{
+    color: #139bda;
+    font-weight: bold;
+}
+.icono-habilidades{
+    color: #139bda;
+}
+h3{
+    color: #224ab9;
+}
+
+.boton-proyecto{
+    background-color: #bb7ecf;
+    border: 1px solid #65247a;
+}
+.boton-proyecto a{
+    text-decoration: none;
+    color: #5b0677;
+}
+.boton-proyecto:hover{
+    background-color: #bd70d6;
+    border: 1px solid #8103ac;
+    font-weight: bold;
+    color: #5b0677;
+    transition-duration: 100ms;
+}
+.contenedor-proyectos{
+    background-color: #ffffff;
+}
+.imagen-proyecto{
+    min-height: 200px;
+
+}
+.testimonio-img {
+    width: 150px; 
+    height: auto; 
+}
+.card-testimonio{ 
+    display: flex; 
+    flex-direction: column; 
+    align-items: center;
+}    
+.card-text { 
+    text-align: justify;
+}
+.card-title {
+    color: #8103ac;
+    font-weight: bold;
+}
+.card-subtitle{
+    color: #224ab9;
+    font-weight: bold;
+}
+.contacto-img{
+    color: #139bda;
+}
+.btn-contacto{
+    background-color: #bb7ecf;
+    border: 1px solid #65247a;
+    color: #5b0677;
+    font-weight: bold;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 5px;
+}
+.btn-contacto:hover{
+    background-color: #bd70d6;
+    border: 1px solid #8103ac;
+    font-weight: bold;
+    color: #5b0677;
+    transition-duration: 100ms;
+}
+
+.footer{    
+    background-color: #0f286d;
+    border-top: solid 8px #2a5be4;  
+}
+.footer a{
+    text-decoration: none;
+    color: #AF47D2;
+    font-weight: bold;
+}
+.footer a:hover{
+    color: #b4dcf3;
+}
+.footer p{
+    color: white;
+}
+
